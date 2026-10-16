@@ -86,12 +86,6 @@ py sales_management.py
 
 The application should display a menu through which you can manage products and sales.
 
-## Project Documentation
-
-View the complete project report, including the database design, source code, and sample outputs.
-
-[View Project Documentation (PDF)](Sales_Management_System_Documentation.pdf)
-
 
 ## Learning Outcomes
 
