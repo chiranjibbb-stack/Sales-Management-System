@@ -87,6 +87,26 @@ py sales_management.py
 The application should display a menu through which you can manage products and sales.
 
 
+## Screenshots
+
+### Product Management
+![Product Management](add%20product_view%20product%20output.png)
+
+### Sales Transaction
+![Sales Output](make_sale_view%20sale%20output.png)
+
+### Sales History
+![Sales History](view_sale.png)
+
+### Product Search
+![Product Search](search%20product_exit_output.png)
+
+### Source Code
+![Product Management Code](add%20product_view%20product%20code.png)
+
+![Sales Code](sale_code.png)
+
+
 ## Learning Outcomes
 
 Through this project, I explored:
